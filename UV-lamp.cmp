@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by CvPcb (2013-feb-26)-stable date = Mon 08 Apr 2013 07:15:09 PM CEST
+
+BeginCmp
+TimeStamp = /5162F6BF;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F6CE;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F6DD;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F6EC;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F6FB;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F70A;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F0D1;
+Reference = DIS1;
+ValeurCmp = DA04-11EWA;
+IdModule  = DA04-11EWA;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E1A0;
+Reference = IC1;
+ValeurCmp = ATMEGA8-P;
+IdModule  = DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E202;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E38B;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E3E0;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /51630021;
+Reference = Q2;
+ValeurCmp = NPN;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162FC2B;
+Reference = Q3;
+ValeurCmp = NPN;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /51630012;
+Reference = Q4;
+ValeurCmp = NPN;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E56A;
+Reference = R1;
+ValeurCmp = 4k7;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E272;
+Reference = R2;
+ValeurCmp = 43R;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E28D;
+Reference = R3;
+ValeurCmp = 43R;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F227;
+Reference = R4;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F236;
+Reference = R5;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F245;
+Reference = R6;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F2A9;
+Reference = R7;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F2B8;
+Reference = R8;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F2C7;
+Reference = R9;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162F2D6;
+Reference = R10;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /516302AC;
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162FCA0;
+Reference = R12;
+ValeurCmp = 10K;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5163029D;
+Reference = R13;
+ValeurCmp = 10K;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /516305F8;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /51630607;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /51630616;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /51630625;
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5162E4FB;
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = TO220GDS;
+EndCmp
+
+EndListe
