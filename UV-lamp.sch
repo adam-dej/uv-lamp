@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 08 Apr 2013 08:02:31 PM CEST
+EESchema Schematic File Version 2
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,18 +29,18 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:deykoweec-personal
+LIBS:UV-lamp-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "UV Lamp Timer"
 Date "8 apr 2013"
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Rev "B"
+Comp "Frozen Developers"
+Comment1 "www.frozendevs.com"
+Comment2 "Licensed under TAPR Open Hardware License"
 Comment3 ""
 Comment4 ""
 $EndDescr
